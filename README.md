@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋, I'm Taka 👨🏻‍💻
 
-<!--
-**takakd/takakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A middle development engineer, working with PHP, Javascript, and some cloud services.
 
-Here are some ideas to get you started:
+### Summary 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 4y software and 6y web development - C++, C#, Java.
+* 6y web development - PHP, Python, Go, Perl, JavaScript, HTML5, CSS3.
+* 4y AWS, Heroku, and Salesforce - AWS certified 6x, Salesforce certified 1x.
+
+### Currently 🏎
+
+* Golang: Use it mainly next.
+* Dictation with TEDICT: Studying English.
+* Work out hard: Building muscle.
+* Final Fantasy 6: ver. Android.
+
+### Get in touch
+
+* Twitter: [@takakd](https://twitter.com/takakdkd)
+* Dev.to:  [@takakd](https://dev.to/takakd)
