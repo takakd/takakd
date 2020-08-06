@@ -17,5 +17,4 @@ A middle development engineer, working with PHP, Javascript, and some cloud serv
 
 ### Get in touch
 
-* Twitter: [@takakd](https://twitter.com/takakdkd)
-* Dev.to:  [@takakd](https://dev.to/takakd)
+[![Twitter](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/takakdkd)&nbsp;&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/Dev.to-informational?style=for-the-badge&color=black)](https://dev.to/takakd)
