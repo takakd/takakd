@@ -4,7 +4,7 @@ A middle development engineer, working with PHP, Javascript, and some cloud serv
 
 ### Summary 📝
 
-* 4y software and 6y web development - C++, C#, Java.
+* 4y software development - C++, C#, Java.
 * 6y web development - PHP, Python, Go, Perl, JavaScript, HTML5, CSS3.
 * 4y AWS, Heroku, and Salesforce - AWS certified 6x, Salesforce certified 1x.
 
