@@ -1,12 +1,11 @@
 ## Hi there 👋, I'm Taka 👨🏻‍💻
 
-A middle development engineer, working with PHP, Javascript, and some cloud services.
+A middle level web development engineer, working with PHP, Javascript, and some cloud services.
 
 ### Summary 📝
 
-* 6y web development - PHP, Python, Go, Perl, JavaScript, HTML5, CSS3.
-* 4y AWS, Heroku, and Salesforce - AWS certified 6x, Salesforce certified 1x.
-* 4y software development - C++, C#, Java.
+* Web & Software development - mainly: PHP, Python, Go, JavaScript, experienced: Perl, C++, C#, and Java.
+* AWS, Heroku, and Salesforce - AWS certified 6x, Salesforce certified 1x.
 
 ### Currently 🏎
 
