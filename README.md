@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Taka 👨🏻‍💻
 
-A middle level web development engineer, working with PHP, Javascript, and some cloud services.
+A web development engineer, working with PHP, Go, Javascript, and some cloud services.
 
 ### Summary 📝
 
@@ -9,10 +9,9 @@ A middle level web development engineer, working with PHP, Javascript, and some 
 
 ### Currently 🏎
 
+* Integration: Working on system integration.
 * Golang: Use it mainly next.
-* Dictation with TEDICT: Studying English.
-* Work out hard: Building muscle.
-* Final Fantasy 6: ver. Android.
+* English: Want to work in a global field.
 
 ### Get in touch
 
