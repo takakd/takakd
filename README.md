@@ -1,17 +1,16 @@
 ## Hi there 👋, I'm Taka 👨🏻‍💻
 
-A web development engineer, working with PHP, Go, Javascript, and some cloud services.
+Web application engineer whose field is mainly in server-side, working in R&D these days.
 
 ### Summary 📝
 
-* Web & Software development - mainly: PHP, Python, Go, JavaScript, experienced: Perl, C++, C#, and Java.
-* AWS, Heroku, and Salesforce - AWS certified 6x, Salesforce certified 1x.
-
-### Currently 🏎
-
-* Integration: Working on system integration.
-* Golang: Use it mainly next.
-* English: Want to work in a global field.
+* Web & Software development
+* Language
+  * Good: PHP, Python, Go, JavaScript
+  * Experienced: Perl, C++, C#, Java
+* Services
+  * Good: AWS, Heroku, Salesforce
+  * Experienced: Azure, GCP
 
 ### Get in touch
 
