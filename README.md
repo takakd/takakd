@@ -14,7 +14,7 @@ Web application engineer whose field is mainly in server-side, working in R&D th
 
 ### Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&color=006da9)](https://www.linkedin.com/in/takakd/)&nbsp;&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/takakdkd)&nbsp;&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/Dev.to-informational?style=for-the-badge&color=black)](https://dev.to/takakd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&color=006da9)](https://www.linkedin.com/in/takakd/)&nbsp;&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/Dev.to-informational?style=for-the-badge&color=black)](https://dev.to/takakd)
 
 ------
 
