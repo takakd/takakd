@@ -1,18 +1,6 @@
-## Hi there 👋, I'm Taka 👨🏻‍💻
+## Hi there! 👋
 
-Web application engineer whose field is mainly in server-side, working in R&D these days.
-
-### Summary 📝
-
-* Web & Software development
-* Language
-  * Good: PHP, Python, Go, JavaScript
-  * Experienced: Perl, C++, C#, Java
-* Services
-  * Good: AWS, Heroku, Salesforce
-  * Experienced: Azure, GCP
-
-### Get in touch
+Software engineer in various applications development, and passionate about resolving problems by developing software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&color=006da9)](https://www.linkedin.com/in/takakd/)&nbsp;&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/Dev.to-informational?style=for-the-badge&color=black)](https://dev.to/takakd)
 
