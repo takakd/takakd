@@ -2,7 +2,7 @@
 
 Software engineer in various applications development, and passionate about resolving problems by developing software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&color=006da9)](https://www.linkedin.com/in/takakd/)&nbsp;&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/Dev.to-informational?style=for-the-badge&color=black)](https://dev.to/takakd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&color=006da9)](https://www.linkedin.com/in/hirokd/)&nbsp;&nbsp;&nbsp;[![Dev.to](https://img.shields.io/badge/Dev.to-informational?style=for-the-badge&color=black)](https://dev.to/takakd)
 
 <!--
 ------
